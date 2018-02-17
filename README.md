@@ -1,2 +1,2 @@
-# spotify
+# spotipy
 Python meets Spotify
